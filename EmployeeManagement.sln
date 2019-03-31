@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagement", "Emplo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleReview1", "ConsoleReview1\ConsoleReview1.csproj", "{C0A18539-0A7F-4534-8640-7497125ED397}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delegatePrac", "delegatePrac\delegatePrac.csproj", "{E1DC76EC-9129-4F0D-95B3-0DA3518737D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C0A18539-0A7F-4534-8640-7497125ED397}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0A18539-0A7F-4534-8640-7497125ED397}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0A18539-0A7F-4534-8640-7497125ED397}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1DC76EC-9129-4F0D-95B3-0DA3518737D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1DC76EC-9129-4F0D-95B3-0DA3518737D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1DC76EC-9129-4F0D-95B3-0DA3518737D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1DC76EC-9129-4F0D-95B3-0DA3518737D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

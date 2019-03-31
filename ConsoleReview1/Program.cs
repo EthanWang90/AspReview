@@ -6,9 +6,10 @@ namespace ConsoleReview1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("hello age");
-            Console.WriteLine("test{0},{2}",1, 2, 3);
+            Son newSon = new Son();
+            newSon.live();
+            Console.WriteLine("--------------------");
+            newSon.eat();
         }
     }
 }
